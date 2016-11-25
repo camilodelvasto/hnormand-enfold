@@ -1,12 +1,13 @@
 /*
-Theme Name: Enfold Child
-Description: A <a href='http://codex.wordpress.org/Child_Themes'>Child Theme</a> for the Enfold Wordpress Theme. If you plan to do a lot of file modifications we recommend to use this Theme instead of the original Theme. Updating wil be much easier then.
+Theme Name: Hacienda Normandia
+Description: Child-Theme
 Version: 1.0
-Author: Kriesi
-Author URI: http://www.kriesi.at
+Author: SkoobGeneral
+Author URI: http://www.skoobgeneral.com
 Template: enfold
 */
 
 
 
 /*Add your own styles here:*/
+@import url('../enfold/style.css');
