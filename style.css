@@ -16,6 +16,10 @@ Template: enfold
 	padding:20px 0;
 }
 
+.header_color.av_header_transparency {
+	color: #808080 !important;
+}
+
 .avia-color-theme-color {
 	color: #705629;
 	background-color: #efede0;
