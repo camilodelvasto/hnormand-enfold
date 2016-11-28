@@ -6,3 +6,26 @@ Author: SkoobGeneral
 Author URI: http://www.skoobgeneral.com
 Template: enfold
 */
+
+
+
+/*Add your own styles here:*/
+
+#header {
+	background: #ffffff !important;
+	padding:20px 0;
+}
+
+.header_color.av_header_transparency {
+	color: #808080 !important;
+}
+
+.avia-color-theme-color {
+	color: #705629;
+	background-color: #efede0;
+}
+
+.avia-button:hover {
+	opacity: 0.7;
+	background-color: #ffffff !important;
+}
