@@ -12,7 +12,7 @@ function wp_enqueue_scripts_mod() {
     wp_dequeue_style( 'avia-child' );
     wp_deregister_style( 'avia-child' );
 
-    wp_register_style( 'new-child-style', get_stylesheet_directory_uri() . '/style.css', false, '1.0.0' ); 
+    wp_register_style( 'new-child-style', get_stylesheet_directory_uri() . '/style.css', false, '2' ); 
     wp_enqueue_style( 'new-child-style' );
 
 }
