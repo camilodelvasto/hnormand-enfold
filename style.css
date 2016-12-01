@@ -13,8 +13,7 @@ Template: enfold
 
 #header {
 	background: #ffffff !important;
-	padding:20px 0;
-	display: none;
+	padding:20px 0 !important;
 }
 
 .header_color.av_header_transparency {
@@ -22,11 +21,11 @@ Template: enfold
 }
 
 .avia-color-theme-color {
-	color: #705629;
-	background-color: #efede0;
+	color: #705629 !important;
+	background-color: #efede0 !important;
 }
 
 .avia-button:hover {
-	opacity: 0.7;
+	opacity: 0.7 !important;
 	background-color: #ffffff !important;
 }
