@@ -10,6 +10,7 @@ Template: enfold
 
 
 /*Add your own styles here:*/
+#top .cart_dropdown { display: none; }
 
 #header {
 	background: #ffffff !important;
@@ -30,4 +31,30 @@ Template: enfold
 .avia-button:hover {
 	opacity: 0.7 !important;
 	background-color: #ffffff !important;
+}
+
+.alternate_color {
+	background: #a9a483 !important
+}
+
+#footer {
+	color: #000000;
+	background: #ffffff !important;
+}
+
+#footer .container {
+	text-align: center !important; 
+}
+
+#footer .copyright {
+	float:none !important;
+}
+
+#footer .copyright a {
+	color: #000000 !important;
+}
+
+#footer .copyright a:hover {
+	color: #86815e !important;
+	text-decoration: none;
 }
