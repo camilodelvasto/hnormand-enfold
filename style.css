@@ -10,7 +10,23 @@ Template: enfold
 
 
 /*Add your own styles here:*/
+@font-face {
+    font-family: "Crimson";
+    src: url("crimson/CrimsonText-Bold.ttf");
+}
+h1, h2, h3 {
+	font-family: "Crimson";
+}
+
 #top .cart_dropdown { display: none; }
+#scroll-top-link {
+	border: 1px solid #705629 !important;
+	color: #111;
+	border-radius: 50%;
+}
+#scroll-top-link:hover {
+	color: #252525;
+}
 
 #header {
 	background: #ffffff !important;
@@ -25,6 +41,7 @@ Template: enfold
 
 .avia-color-theme-color {
 	color: #705629 !important;
+	border-color: #705629 !important;
 	background-color: #efede0 !important;
 }
 
@@ -35,6 +52,15 @@ Template: enfold
 
 .alternate_color {
 	background: #a9a483 !important
+}
+
+.alternate_color input[type='text'] {
+	border-color: white;
+	color: white;
+}
+
+.alternate_color input[type='submit']:hover {
+	background-color: #5b6164;
 }
 
 #footer {
@@ -50,11 +76,14 @@ Template: enfold
 	float:none !important;
 }
 
-#footer .copyright a {
+#footer a {
 	color: #000000 !important;
 }
 
-#footer .copyright a:hover {
+#footer a:hover {
 	color: #86815e !important;
 	text-decoration: none;
+}
+.socket_color span {
+	border:none !important;
 }
