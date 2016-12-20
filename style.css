@@ -63,6 +63,10 @@ h1, h2, h3 {
 	background-color: #5b6164;
 }
 
+.alternate_color h1, .alternate_color h2, .alternate_color h3 {
+	border-color: #383838;
+}
+
 #footer {
 	color: #000000;
 	background: #ffffff !important;
@@ -72,7 +76,7 @@ h1, h2, h3 {
 	text-align: center !important; 
 }
 
-#footer .copyright {
+#footer > div > span {
 	float:none !important;
 }
 
@@ -84,6 +88,6 @@ h1, h2, h3 {
 	color: #86815e !important;
 	text-decoration: none;
 }
-.socket_color span {
+.socket_color {
 	border:none !important;
 }
