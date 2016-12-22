@@ -39,6 +39,10 @@ h1, h2, h3 {
 	opacity: 1 !important;
 }
 
+h2.avia-caption-title {
+	font-family: "Crimson" !important;
+}
+
 .avia-color-theme-color {
 	color: #705629 !important;
 	border-color: #705629 !important;
@@ -76,7 +80,7 @@ h1, h2, h3 {
 	text-align: center !important; 
 }
 
-#footer > div > span {
+#footer > div > span.copyright {
 	float:none !important;
 }
 
