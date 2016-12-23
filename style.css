@@ -28,6 +28,14 @@ h1, h2, h3 {
 	color: #252525;
 }
 
+.avia-gallery .avia-gallery-thumb a:hover {
+	opacity: 0.8 !important;
+}
+
+.main_color b {
+	color: #cecaaf !important;
+}
+
 #header {
 	background: #ffffff !important;
 	padding:20px 0 !important;
@@ -71,26 +79,26 @@ h2.avia-caption-title {
 	border-color: #383838;
 }
 
-#footer {
+#socket {
 	color: #000000;
 	background: #ffffff !important;
 }
 
-#footer .container {
+#socket .container {
 	text-align: center !important; 
 }
 
-#footer .copyright span{
+#socket .copyright span{
 	font-size: 130%;
 	float: none !important;
 }
 
-#footer .copyright a {
+#socket .copyright a {
 	color: #000000 !important;
 	text-decoration: none;
 }
 
-#footer .copyright a:hover {
+#socket .copyright a:hover {
 	color: #86815e !important;
 	text-decoration: none;
 }
