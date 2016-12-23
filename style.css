@@ -80,17 +80,18 @@ h2.avia-caption-title {
 	text-align: center !important; 
 }
 
-#footer > div > span.copyright {
-	float:none !important;
+#footer .copyright span{
+	font-size: 130%;
+	float: none !important;
 }
 
 #footer a {
 	color: #000000 !important;
+	text-decoration: none;
 }
 
 #footer a:hover {
 	color: #86815e !important;
-	text-decoration: none;
 }
 .socket_color {
 	border:none !important;
