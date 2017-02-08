@@ -1,18 +1,7 @@
-Quitar newsletter en todas menos en la página el curso de parrilla
-
-
-
-
-social media en el footer
-Instragram hacienda_normandia
-twitter	hnormandia
-facebook hacienda normandia
-tripadvisor link de old website
-
-
-*Testimonios en slideshow de a 3
-
+CONTACTO
 *formulario de contacto que llegue a 2 destinatarios
+comercial@haciendanormandia.com
+camilo.ortega@haciendanormandia.com
 
 
 
