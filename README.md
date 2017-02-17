@@ -1,24 +1,10 @@
-CONTACTO
-*formulario de contacto que llegue a 2 destinatarios
-comercial@haciendanormandia.com
-camilo.ortega@haciendanormandia.com
+GENERAL
+*Fix .ico
+*change url links home accordion remove new.
 
+CONTACT/CONTACTO
+INGLES Y ESPAÑOL *formulario de contacto que llegue a:
+	comercial@haciendanormandia.com
 
-
-
-
-Form Contact
-Nombres y Apellidos
-Email
-Telefono de contacto
-Fecha de evento
-Tipo evento
-	-Taller/reunión
-	-Evento familiar
-	-Fiesta empresarial
-	-Matrimonio
-	-Curso Parrilla - Grupo
-Numero de personas
-Mensaje
-
-
+Turismo
+ESPAÑOL * Newsletter que llegue a comercial@haciendanormandia.com
